@@ -1,0 +1,10 @@
+Heike beschenkt Helmut
+Florian beschenkt Markus
+Claudia beschenkt Jenny
+Günther beschenkt Florian
+Jenny beschenkt Jue
+Christian beschenkt Rosi
+Helmut beschenkt Günther
+Rosi beschenkt Heike
+Markus beschenkt Claudia
+Jue beschenkt Christian
